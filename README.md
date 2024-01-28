@@ -1,2 +1,2 @@
 # bookbot
-Python Project 
+BookBot is my python isde project.
