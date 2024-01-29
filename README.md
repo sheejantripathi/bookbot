@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my python isde project.
+BookBot is my python side project.
